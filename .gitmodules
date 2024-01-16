@@ -4,3 +4,6 @@
 [submodule "Official_Course_Repo"]
 	path = Official_Course_Repo
 	url = https://github.com/sqlab-sustech/CS323-2023F.git
+[submodule "Project"]
+	path = Project
+	url = https://github.com/GuTaoZi/SPL_Compiler.git
