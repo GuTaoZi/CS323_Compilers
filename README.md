@@ -10,6 +10,10 @@
 
 [Project: SUSTech Programming Language Compiler](https://github.com/GuTaoZi/SPL_Compiler)
 
+[Cheatsheet for 2023 Fall Final Exam by GuTao](./CS323_Cheating_Paper_By_GuTao.pdf)
+
+> The project and cheatsheet are for reference only. Copying projects, sharing/selling cheatsheets is prohibited. Violation may lead to academic consequences, including disciplinary actions. The repository author is not liable for any misuse or resulting consequences.
+
 ### How to Contribute
 
 Feel free to contribute to this repo! Your contributions help improve the learning experience for everyone.
